@@ -1,0 +1,11 @@
+/html/body/div[1]/div/div[2]/div[2]/a  --course xpath
+
+
+/html/body/main/div[2]/div[2]/a[3]  --- st
+
+/html/body/main/div[3]/div[1]/div[1]/div[1]/div -- drop down
+
+/html/body/main/div[3]/div[1]/div[1]/div[2]/div/button -- introd
+
+
+/html/body/main/div[3]/div[2]/div/div/div[2]/div[3]/div[1]/div/div[1]/div[2]/button --take test
